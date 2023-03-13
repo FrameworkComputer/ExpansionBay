@@ -11,6 +11,8 @@ There are currently two Expansion Bay modules available:
  and electrical specifications for the cards that can go in this open area.
  2. Graphics Module - This module is thicker and deeper, and contains a GPU card along with
  the heatsink for it.
+ 
+Warning: the documentation here is pretty early, so there may be minor adjustments in the mechanical or electrical designs before the Framework Laptop 16 launches. We'll let you know when the design is locked for production.
 
 ## License
 Input Modules © 2023 by Framework Computer Inc is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
