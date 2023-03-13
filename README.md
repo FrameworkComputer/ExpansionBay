@@ -1,4 +1,4 @@
-# Expansion Bay Modules
+# Framework Laptop 16 Expansion Bay Modules
 The Framework Laptop 16 has an Expansion Bay system that contains both the cooling fans
 and an interface for high-power, high-speed PCIe peripherals like GPUs.  Expansion Bay
 modules can extend in both thickness and depth to accomodate higher power requirements.
