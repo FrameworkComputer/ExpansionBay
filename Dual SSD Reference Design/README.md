@@ -1,5 +1,5 @@
 # Dual SSD Reference Design
-This is a reference design of a Dual M.2 SSD Module that goes in the Expansion Bay Shell.  Note that other M.2 PCI devices can also be used.
+This is a reference design of a Dual M.2 SSD Module that goes in the Expansion Bay Shell.  Note that other M.2 PCIe devices can also be used.
 
 This design has been prototyped and put through limited testing, but additional validation is needed for a production version.
 
