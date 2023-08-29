@@ -16,5 +16,12 @@ There are currently two Expansion Bay modules available:
  
 **Warning**: the documentation here is pretty early, so there may be minor adjustments in the mechanical or electrical designs before the Framework Laptop 16 launches. We'll let you know when the design is locked for production.
 
+## Custom mechanical parts
+
+Note that one custom part is needed for development: the threaded insert that the interposer 
+screws into.  Two pieces are needed on each Expansion Bay Module.  A drawing is in the PCB Reference Design
+folder.  You can submit a request for free samples of these for development purposes at:
+https://forms.gle/t4oS8qWWoaaXqVot9
+
 ## License
 Expansion Bay © 2023 by Framework Computer Inc is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
