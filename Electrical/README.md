@@ -6,6 +6,11 @@ the design is locked for production.
 ## License
 Expansion Bay © 2023 by Framework Computer Inc is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
+## KiCAD Symbol and Footprint
+We haven't tested these, but there are two community member-created footprints for this interface:
+ * https://github.com/XPModder/Framework-ExpansionBay/tree/main
+ * https://github.com/jyancat/ExpansionBay/tree/main/Electrical/KiCad_templates/Expansion_Bay
+
 ## Pinout
 There are two 74-pin interposers that are connected together to form the Expansion Bay Interface.  One is primarily for power, 
 while the other is primarily for PCIe, DisplayPort, and other high speed signals.
